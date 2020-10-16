@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - name: Say hello to me
-        uses: anshu3769/test-github-actions@v1
+        uses: anshu3769/test-git-actions@v1
         with:
           who-to-greet: "Anshu"
